@@ -1,0 +1,14 @@
+Modified		archive-ad_listing.php
+Modified		framework/kernel/view-types.php
+Modified		framework/scb
+Modified		includes/core.php
+Modified		includes/emails.php
+Modified		includes/theme-widgets/class-widget-listing-latest.php
+Modified		includes/theme-widgets/class-widget-post-latest.php
+Modified		parts/widget-latest-ad_listing.php
+Modified		style.css
+Modified		taxonomy.php
+Modified		theme-framework
+Modified		theme-framework/lib/customizer-custom-controls/css/customizer.css
+Modified		theme-framework/lib/customizer-custom-controls/inc/google-fonts-alphabetical.json
+Modified		theme-framework/lib/customizer-custom-controls/inc/google-fonts-popularity.json
